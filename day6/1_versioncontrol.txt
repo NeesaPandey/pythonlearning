@@ -1,0 +1,14 @@
+Version control
+There are different version of the same project which should be backward compatible
+These different versions of the same projects is maintained  by version control system
+There are different version control system like git, mercurial etc .Git is famous one
+
+why touse a version control system ?
+to maintain project version efficiently and with less manual work
+for team collaboration
+
+the project maintained with version control system is later uploaded somewhere in the cloud
+cloud storage like google drive, one drive, s3 .
+these storage system do not cooperate with version control ( eg git)
+so we should use such cloud services which understand version control . like : github, gitlab, bitbucket etc
+
