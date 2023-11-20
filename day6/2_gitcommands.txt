@@ -24,3 +24,21 @@
  Adds all the changes to the git. done exactly before committing the code
 
  8. git commit -m "<commit-message>"
+
+ 9. git branch
+   shows all the branches and highlights the current branch
+
+  10. git branch -M main
+    makes "main" branch as the root branch
+
+  11. git remote add origin <ssh-link>
+     adds a remote with name 'origin' in the local repo
+
+  12. git push -u origin main
+    git push : uploaad your code to github
+    -u : this tracks your local branch upstream with remote
+    origin : alias name for remote (github)
+    main: Remote "main" branch
+
+  significance of -u (tracking the updtream) is that we can write "git push" only from next time
+  onward. otherwise we should write "git push origin main" everytime
