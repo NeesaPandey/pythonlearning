@@ -41,4 +41,4 @@
     main: Remote "main" branch
 
   significance of -u (tracking the updtream) is that we can write "git push" only from next time
-  onward. otherwise we should write "git push origin main" everytime
+  onward. otherwise we should write "git push origin main" everytime"
